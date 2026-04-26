@@ -91,9 +91,9 @@ body {
   margin-bottom: 2rem;
 }
 .result-container h2 {
-  font-size: 3.2rem; /* keep original size */
+  font-size: 2p; /* keep original size */
   word-wrap: break-word;
-  line-height: 1.2em;
+  line-height: 1p;
 }
 
 /* heart loader */
