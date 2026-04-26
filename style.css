@@ -92,9 +92,9 @@ body {
 }
 .result-container h2 {
   padding-left: 10px;
-  font-size: 20px; /* keep original size */
+  font-size: 30px; /* keep original size */
   word-wrap: break-word;
-  line-height: 15px;
+  line-height: 25px;
 }
 
 /* heart loader */
